@@ -34,7 +34,7 @@ This project is a clone of the YouTube home page, built using HTML and CSS. It r
 
 Below is a screenshot of the project output:
 
-![YouTube Clone Screenshot](screenshot/Screenshot%20(396).png)
+![YouTube Clone Screenshot](Screenshot%20(396).png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
